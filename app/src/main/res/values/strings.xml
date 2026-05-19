@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FraudWatch</string>
+    <string name="app_tagline">Intelligence Anti-Fraude</string>
+
+    <!-- Auth -->
+    <string name="login_title">Connexion</string>
+    <string name="register_title">Créer un compte</string>
+    <string name="email_hint">Adresse email</string>
+    <string name="password_hint">Mot de passe</string>
+    <string name="confirm_password_hint">Confirmer le mot de passe</string>
+    <string name="btn_login">Se connecter</string>
+    <string name="btn_register">Créer un compte</string>
+    <string name="btn_back">Retour</string>
+    <string name="go_register">Pas encore de compte ? S\'inscrire</string>
+
+    <!-- Home -->
+    <string name="welcome">Bienvenue</string>
+    <string name="btn_scan_fraud">Scanner une fraude</string>
+    <string name="btn_history">Voir l\'historique</string>
+    <string name="btn_map">Carte des signalements</string>
+    <string name="stat_total">Total signalements</string>
+    <string name="stat_critique">Critiques</string>
+    <string name="stat_eleve">Élevés</string>
+    <string name="stat_moyen">Moyens</string>
+
+    <!-- Camera -->
+    <string name="btn_capture">Scanner</string>
+    <string name="analyzing">Analyse en cours…</string>
+    <string name="camera_hint">Pointez sur un objet suspect</string>
+
+    <!-- Result -->
+    <string name="risk_level_label">Niveau de risque</string>
+    <string name="fraud_type_label">Type de fraude</string>
+    <string name="description_label">Analyse IA</string>
+    <string name="location_label">Localisation</string>
+    <string name="date_label">Date</string>
+    <string name="btn_share">Partager</string>
+    <string name="result_title">Rapport d\'analyse</string>
+
+    <!-- History -->
+    <string name="search_hint">Rechercher un signalement…</string>
+    <string name="no_reports">Aucun signalement trouvé</string>
+    <string name="chip_all">Tous</string>
+    <string name="chip_faible">FAIBLE</string>
+    <string name="chip_moyen">MOYEN</string>
+    <string name="chip_eleve">ÉLEVÉ</string>
+    <string name="chip_critique">CRITIQUE</string>
+
+    <!-- Map -->
+    <string name="map_title">Carte des fraudes</string>
+
+    <!-- Errors -->
+    <string name="error_network">Erreur réseau. Vérifiez votre connexion.</string>
+    <string name="error_camera">Erreur d\'accès à la caméra</string>
+    <string name="error_analysis">Erreur lors de l\'analyse IA</string>
+    <string name="error_save">Erreur lors de la sauvegarde</string>
+    <string name="error_not_found">Rapport introuvable</string>
+    <string name="error_permission_camera">Permission caméra refusée</string>
+
+    <!-- Notifications -->
+    <string name="notif_channel_name">Alertes Fraude</string>
+    <string name="notif_channel_desc">Notifications pour les fraudes à risque élevé ou critique</string>
+
+    <!-- Misc -->
+    <string name="loading">Chargement…</string>
+    <string name="unknown">Inconnu</string>
+    <string name="location_unavailable">Localisation non disponible</string>
+</resources>

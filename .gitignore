@@ -1,0 +1,37 @@
+*.iml
+.gradle
+/local.properties
+/.idea
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# Fichiers sensibles Firebase (NE PAS committer)
+app/google-services.json
+
+# Clé Maps dans gradle.properties (utiliser local.properties à la place)
+# gradle.properties
+
+# Build outputs
+app/build/
+build/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Database locale
+backend/fraudwatch.db
+*.db
+*.sqlite
+
+# Fichiers temporaires et sensibles
+temp_auth_export.json
+temp_*.json
+
+# Claude Code settings locaux
+.claude/settings.local.json

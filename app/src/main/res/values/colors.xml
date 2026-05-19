@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary - Rouge cybersécurité intense -->
+    <color name="primary">#E53935</color>
+    <color name="primary_dark">#B71C1C</color>
+    <color name="primary_light">#FF5252</color>
+    <color name="accent_red">#FF1744</color>
+
+    <!-- Backgrounds - Noir pur -->
+    <color name="background">#000000</color>
+    <color name="surface">#0D0D0D</color>
+    <color name="surface_variant">#141414</color>
+    <color name="card_bg">#0A0A0A</color>
+    <color name="card_border">#3D0000</color>
+
+    <!-- Text -->
+    <color name="on_background">#FFFFFF</color>
+    <color name="on_surface">#EEEEEE</color>
+    <color name="on_surface_muted">#888888</color>
+    <color name="hint">#444444</color>
+
+    <!-- Divider rouge sombre -->
+    <color name="divider">#2D0000</color>
+
+    <!-- Risk Level Colors -->
+    <color name="risk_low">#43A047</color>
+    <color name="risk_medium">#FB8C00</color>
+    <color name="risk_high">#E53935</color>
+    <color name="risk_critical">#CC0000</color>
+
+    <!-- Misc -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="red_glow">#55E53935</color>
+    <color name="red_glow_dark">#22E53935</color>
+    <color name="transparent">#00000000</color>
+</resources>

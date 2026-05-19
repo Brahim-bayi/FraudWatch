@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Bouclier FraudWatch centré sur la zone safe (72dp) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,18L22,32v24c0,22.2 13.76,42.96 32,48 18.24,-5.04 32,-25.8 32,-48V32L54,18zM46,70l-16,-16 5.64,-5.64L46,58.72l26.36,-26.36L78,38 46,70z" />
+</vector>
